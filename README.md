@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Muhammad Syauqi 👋
 
-<!--
-**msyauqi21-collab/msyauqi21-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend & cloud infrastructure student developer from Indonesia.
 
-Here are some ideas to get you started:
+Currently learning and exploring:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Golang backend development
+* Linux server administration
+* Docker & containerization
+* Web development
+* Cloud infrastructure
+* DevOps fundamentals
+
+## Current Focus
+
+* Building backend APIs with Golang
+* Learning modern deployment workflows
+* Exploring cloud platforms and infrastructure
+* Developing academic and personal projects
+
+## Tools & Technologies
+
+* Golang
+* JavaScript
+* Docker
+* Linux
+* Git & GitHub
+* MySQL
+
+## Projects
+
+This GitHub account is used for learning, experimentation, and development projects related to backend engineering and cloud infrastructure.
+
+Always learning something new 🚀
